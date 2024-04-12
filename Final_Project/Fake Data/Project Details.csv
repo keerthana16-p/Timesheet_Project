@@ -1,0 +1,500 @@
+1,Document Collaboration Platform,Client Project,15-04-2024,13-07-2024,High
+2,Marketing Campaign Tracker,BAU activity,01-05-2024,04-07-2024,Medium
+3,Help Desk Ticketing System,BAU activity,23-04-2024,10-06-2024,High
+4,Order Management System,Client Project,23-05-2024,16-06-2024,Medium
+5,Inventory Management Software,Sales Activity,02-05-2024,18-06-2024,Low
+6,Procurement Management Solution,Client Project,19-05-2024,11-06-2024,High
+7,Employee Performance Appraisal Tool,BAU activity,28-04-2024,30-07-2024,Low
+8,Product Lifecycle Management (PLM) Software,BAU activity,09-05-2024,10-07-2024,Low
+9,Producti,BAU activity,04-04-2024,23-07-2024,High
+10,Incident Reporting System,BAU activity,14-05-2024,29-06-2024,Low
+11,Field Service Management Software,Sales Activity,23-04-2024,01-06-2024,Medium
+12,Quality Assurance Management System,Sales Activity,29-05-2024,02-07-2024,Low
+13,Document Collaboration Platform,BAU activity,08-05-2024,14-06-2024,Medium
+14,Risk Management Software,Sales Activity,28-05-2024,18-06-2024,Medium
+15,Supply Chain Optimization Platform,BAU activity,10-05-2024,22-06-2024,Medium
+16,Facility Management System,BAU activity,05-05-2024,25-07-2024,Medium
+17,Human Resources Information System (HRIS),Sales Activity,28-04-2024,07-06-2024,High
+18,Training and Development Platform,BAU activity,02-05-2024,03-07-2024,High
+19,Marketing Campaign Tracker,Client Project,09-05-2024,24-07-2024,Medium
+20,Product Lifecycle Management (PLM) Software,BAU activity,06-05-2024,02-07-2024,Low
+21,Employee Performance Appraisal Tool,Client Project,05-04-2024,20-07-2024,High
+22,Training and Development Platform,BAU activity,07-04-2024,21-06-2024,High
+23,Asset Tracking Application,Client Project,15-05-2024,27-07-2024,High
+24,Human Resources Information System (HRIS),Sales Activity,19-04-2024,04-07-2024,Low
+25,Project Planning Tool,BAU activity,13-04-2024,27-06-2024,High
+26,Help Desk Ticketing System,Sales Activity,14-05-2024,30-07-2024,High
+27,Incident Reporting System,Sales Activity,29-05-2024,15-07-2024,High
+28,Product Lifecycle Management (PLM) Software,BAU activity,15-05-2024,14-07-2024,Medium
+29,Market Research Analysis Tool,Client Project,29-04-2024,13-07-2024,High
+30,Field Service Management Software,Sales Activity,22-05-2024,20-07-2024,Medium
+31,Facility Management System,Sales Activity,02-04-2024,06-07-2024,High
+32,Field Service Management Software,BAU activity,28-04-2024,18-06-2024,Low
+33,Sales Dashboard,Sales Activity,22-05-2024,01-06-2024,Low
+34,Event Planning and Management Software,Sales Activity,18-04-2024,03-06-2024,High
+35,Workflow Automation Platform,Client Project,16-05-2024,23-07-2024,Low
+36,Facility Management System,Client Project,19-05-2024,07-06-2024,Low
+37,Risk Management Software,Client Project,24-04-2024,08-06-2024,High
+38,Product Lifecycle Management (PLM) Software,BAU activity,01-04-2024,20-06-2024,Low
+39,Product Lifecycle Management (PLM) Software,BAU activity,29-05-2024,20-07-2024,Medium
+40,Marketing Campaign Tracker,Client Project,09-05-2024,17-06-2024,Medium
+41,Event Planning and Management Software,BAU activity,02-05-2024,09-07-2024,Medium
+42,Incident Reporting System,BAU activity,10-04-2024,23-07-2024,Medium
+43,Order Management System,Sales Activity,02-05-2024,06-07-2024,High
+44,Employee Performance Appraisal Tool,Client Project,28-04-2024,26-07-2024,Low
+45,Producti,Client Project,08-05-2024,29-07-2024,Low
+46,Project Planning Tool,Sales Activity,11-05-2024,08-06-2024,High
+47,Risk Management Software,BAU activity,29-04-2024,15-06-2024,High
+48,Procurement Management Solution,Sales Activity,20-05-2024,21-06-2024,Medium
+49,Product Lifecycle Management (PLM) Software,BAU activity,27-05-2024,21-07-2024,High
+50,Event Planning and Management Software,Client Project,29-04-2024,03-06-2024,High
+51,Producti,Client Project,22-04-2024,21-06-2024,Medium
+52,Supply Chain Optimization Platform,BAU activity,02-05-2024,21-06-2024,Low
+53,Incident Reporting System,BAU activity,28-04-2024,23-06-2024,High
+54,Training and Development Platform,Client Project,21-05-2024,10-06-2024,High
+55,Supply Chain Optimization Platform,Sales Activity,15-05-2024,12-07-2024,Medium
+56,Business Intelligence Dashboard,Client Project,17-05-2024,23-06-2024,High
+57,Event Planning and Management Software,BAU activity,29-04-2024,23-06-2024,Low
+58,Business Intelligence Dashboard,BAU activity,22-05-2024,29-06-2024,Low
+59,Expense Report Management Software,Client Project,21-05-2024,10-06-2024,Low
+60,Producti,Client Project,19-05-2024,03-06-2024,High
+61,Sales Dashboard,Client Project,03-04-2024,15-07-2024,Medium
+62,Producti,BAU activity,20-05-2024,28-06-2024,Low
+63,Producti,BAU activity,12-04-2024,30-06-2024,Low
+64,Risk Management Software,Client Project,05-05-2024,09-06-2024,High
+65,Inventory Management Software,Sales Activity,02-04-2024,03-06-2024,Low
+66,Product Lifecycle Management (PLM) Software,Client Project,24-04-2024,29-07-2024,Medium
+67,Risk Management Software,Sales Activity,16-04-2024,17-07-2024,High
+68,Expense Report Management Software,Sales Activity,30-05-2024,27-07-2024,Medium
+69,Project Planning Tool,BAU activity,26-05-2024,13-07-2024,High
+70,Employee Performance Appraisal Tool,BAU activity,24-04-2024,19-07-2024,High
+71,Project Planning Tool,BAU activity,05-05-2024,05-06-2024,Low
+72,Facility Management System,BAU activity,03-05-2024,14-06-2024,Low
+73,Business Intelligence Dashboard,Sales Activity,26-05-2024,13-07-2024,Medium
+74,Supply Chain Optimization Platform,Client Project,07-05-2024,17-07-2024,High
+75,Customer Feedback Management Tool,BAU activity,20-04-2024,27-06-2024,High
+76,Procurement Management Solution,Client Project,05-05-2024,04-07-2024,Medium
+77,Procurement Management Solution,Sales Activity,24-05-2024,02-06-2024,Low
+78,Employee Performance Appraisal Tool,Client Project,13-04-2024,27-07-2024,Medium
+79,Producti,Client Project,23-04-2024,07-06-2024,Low
+80,Procurement Management Solution,Sales Activity,10-05-2024,28-07-2024,High
+81,Vendor Relationship Management (VRM) Platform,Client Project,27-05-2024,29-07-2024,Low
+82,Market Research Analysis Tool,BAU activity,19-05-2024,16-07-2024,Low
+83,Sales Dashboard,Sales Activity,09-05-2024,06-07-2024,High
+84,Business Intelligence Dashboard,Client Project,14-05-2024,29-06-2024,High
+85,Business Intelligence Dashboard,Sales Activity,04-04-2024,02-06-2024,Medium
+86,Inventory Management Software,BAU activity,17-04-2024,28-07-2024,High
+87,Risk Management Software,Sales Activity,26-04-2024,10-06-2024,Low
+88,Customer Relationship Management (CRM) System,BAU activity,08-05-2024,17-07-2024,Medium
+89,Human Resources Information System (HRIS),BAU activity,01-04-2024,02-07-2024,High
+90,Risk Management Software,Client Project,15-04-2024,06-07-2024,Low
+91,Facility Management System,Sales Activity,21-04-2024,02-06-2024,Low
+92,Market Research Analysis Tool,BAU activity,30-05-2024,27-06-2024,Medium
+93,Document Collaboration Platform,Sales Activity,26-05-2024,03-06-2024,Medium
+94,Quality Assurance Management System,Client Project,27-04-2024,23-06-2024,Medium
+95,Business Intelligence Dashboard,BAU activity,08-04-2024,16-06-2024,Medium
+96,Producti,Sales Activity,08-05-2024,26-07-2024,Medium
+97,Supply Chain Optimization Platform,Client Project,21-05-2024,10-06-2024,Low
+98,Document Collaboration Platform,Sales Activity,30-04-2024,02-07-2024,High
+99,Workflow Automation Platform,Client Project,24-05-2024,25-06-2024,Low
+100,Help Desk Ticketing System,BAU activity,27-05-2024,28-06-2024,High
+101,Training and Development Platform,Sales Activity,18-04-2024,26-06-2024,High
+102,Sales Dashboard,BAU activity,04-04-2024,11-06-2024,High
+103,Inventory Management Software,Client Project,03-05-2024,17-07-2024,Medium
+104,Procurement Management Solution,Client Project,14-04-2024,26-07-2024,Low
+105,Quality Assurance Management System,Client Project,21-05-2024,23-06-2024,Low
+106,Sales Forecasting Application,Sales Activity,03-04-2024,15-06-2024,Medium
+107,Order Management System,Client Project,28-04-2024,28-06-2024,Low
+108,Supply Chain Optimization Platform,BAU activity,25-05-2024,22-07-2024,Medium
+109,Compliance Monitoring System,Sales Activity,29-05-2024,18-07-2024,Medium
+110,Document Collaboration Platform,Sales Activity,08-05-2024,26-06-2024,Low
+111,Compliance Monitoring System,Sales Activity,11-05-2024,28-06-2024,Medium
+112,Customer Feedback Management Tool,Client Project,09-04-2024,09-06-2024,Medium
+113,Producti,Client Project,15-05-2024,21-07-2024,Low
+114,Facility Management System,Sales Activity,12-04-2024,03-06-2024,Medium
+115,Sales Dashboard,BAU activity,07-05-2024,12-06-2024,Low
+116,Help Desk Ticketing System,Sales Activity,15-05-2024,02-06-2024,High
+117,Incident Reporting System,Client Project,03-04-2024,16-07-2024,Medium
+118,Sales Dashboard,Client Project,14-05-2024,06-07-2024,Low
+119,Expense Report Management Software,Sales Activity,09-04-2024,07-06-2024,Medium
+120,Incident Reporting System,BAU activity,29-04-2024,08-06-2024,High
+121,Compliance Monitoring System,Sales Activity,13-04-2024,17-07-2024,Low
+122,Marketing Campaign Tracker,BAU activity,16-04-2024,23-07-2024,High
+123,Workflow Automation Platform,Sales Activity,03-04-2024,20-06-2024,High
+124,Human Resources Information System (HRIS),Client Project,03-04-2024,16-06-2024,Medium
+125,Help Desk Ticketing System,Client Project,12-04-2024,08-07-2024,Low
+126,Quality Assurance Management System,Sales Activity,28-05-2024,10-06-2024,High
+127,Producti,BAU activity,24-04-2024,05-07-2024,High
+128,Customer Relationship Management (CRM) System,Sales Activity,04-05-2024,10-06-2024,High
+129,Business Intelligence Dashboard,Client Project,18-04-2024,29-06-2024,High
+130,Accounts Payable Automation,Sales Activity,06-05-2024,24-07-2024,Medium
+131,Customer Support Ticket System,Sales Activity,11-04-2024,10-06-2024,Medium
+132,Incident Reporting System,Client Project,04-05-2024,05-06-2024,Low
+133,Customer Feedback Management Tool,BAU activity,04-04-2024,19-07-2024,Low
+134,Human Resources Information System (HRIS),Client Project,13-04-2024,19-07-2024,Medium
+135,Incident Reporting System,Sales Activity,17-05-2024,29-07-2024,High
+136,Customer Feedback Management Tool,Client Project,03-05-2024,28-06-2024,Low
+137,Customer Feedback Management Tool,Sales Activity,03-05-2024,22-07-2024,High
+138,Customer Support Ticket System,Client Project,01-05-2024,29-06-2024,High
+139,Accounts Payable Automation,Client Project,13-04-2024,08-06-2024,Medium
+140,Inventory Management Software,Sales Activity,09-04-2024,21-07-2024,Low
+141,Workflow Automation Platform,BAU activity,24-04-2024,20-07-2024,High
+142,Asset Tracking Application,Sales Activity,19-04-2024,12-07-2024,Medium
+143,Accounts Payable Automation,BAU activity,16-04-2024,03-06-2024,Low
+144,Business Intelligence Dashboard,BAU activity,01-05-2024,28-06-2024,Low
+145,Facility Management System,Sales Activity,19-05-2024,20-06-2024,Medium
+146,Incident Reporting System,Sales Activity,05-05-2024,30-07-2024,Low
+147,Risk Management Software,Client Project,01-04-2024,11-07-2024,Medium
+148,Inventory Management Software,BAU activity,26-05-2024,20-07-2024,Low
+149,Event Planning and Management Software,Client Project,10-05-2024,25-06-2024,High
+150,Customer Feedback Management Tool,Client Project,08-04-2024,27-07-2024,High
+151,Procurement Management Solution,Client Project,28-04-2024,22-07-2024,High
+152,Compliance Monitoring System,Sales Activity,09-05-2024,24-06-2024,Medium
+153,Marketing Campaign Tracker,Sales Activity,02-04-2024,10-06-2024,Medium
+154,Customer Relationship Management (CRM) System,Client Project,04-05-2024,03-06-2024,Medium
+155,Market Research Analysis Tool,Client Project,07-04-2024,02-06-2024,Low
+156,Asset Tracking Application,Client Project,11-04-2024,01-07-2024,Medium
+157,Training and Development Platform,Client Project,07-05-2024,22-07-2024,Medium
+158,Supply Chain Optimization Platform,Sales Activity,29-04-2024,12-06-2024,Medium
+159,Event Planning and Management Software,Client Project,23-05-2024,27-06-2024,High
+160,Employee Performance Appraisal Tool,BAU activity,11-04-2024,28-07-2024,Low
+161,Workflow Automation Platform,Client Project,15-04-2024,09-07-2024,Medium
+162,Accounts Payable Automation,BAU activity,10-04-2024,15-07-2024,High
+163,Expense Report Management Software,Sales Activity,10-05-2024,22-07-2024,Medium
+164,Facility Management System,Sales Activity,13-05-2024,20-07-2024,High
+165,Risk Management Software,BAU activity,16-05-2024,05-07-2024,High
+166,Sales Forecasting Application,Sales Activity,28-04-2024,02-06-2024,High
+167,Market Research Analysis Tool,Client Project,03-05-2024,13-07-2024,Medium
+168,Incident Reporting System,Sales Activity,18-04-2024,22-06-2024,Medium
+169,Sales Forecasting Application,BAU activity,03-05-2024,14-06-2024,High
+170,Workflow Automation Platform,Sales Activity,25-04-2024,29-06-2024,Medium
+171,Vendor Relationship Management (VRM) Platform,BAU activity,07-05-2024,20-06-2024,Low
+172,Human Resources Information System (HRIS),Sales Activity,10-04-2024,04-06-2024,Low
+173,Inventory Management Software,BAU activity,10-04-2024,11-07-2024,High
+174,Incident Reporting System,Sales Activity,10-05-2024,08-06-2024,Low
+175,Customer Support Ticket System,BAU activity,30-04-2024,12-07-2024,Low
+176,Document Collaboration Platform,BAU activity,22-04-2024,12-07-2024,High
+177,Accounts Payable Automation,Sales Activity,14-04-2024,14-07-2024,High
+178,Event Planning and Management Software,BAU activity,22-05-2024,19-07-2024,High
+179,Customer Feedback Management Tool,Client Project,18-04-2024,18-07-2024,High
+180,Field Service Management Software,Sales Activity,22-05-2024,26-06-2024,Medium
+181,Supply Chain Optimization Platform,Client Project,04-05-2024,24-07-2024,High
+182,Marketing Campaign Tracker,BAU activity,01-04-2024,14-07-2024,High
+183,Quality Assurance Management System,Client Project,25-04-2024,22-07-2024,High
+184,Supply Chain Optimization Platform,Client Project,27-05-2024,16-07-2024,Low
+185,Sales Dashboard,Sales Activity,17-05-2024,06-06-2024,Low
+186,Product Lifecycle Management (PLM) Software,Sales Activity,13-05-2024,29-07-2024,High
+187,Order Management System,Sales Activity,08-04-2024,01-06-2024,Medium
+188,Risk Management Software,Client Project,13-04-2024,30-07-2024,High
+189,Field Service Management Software,Sales Activity,11-04-2024,09-06-2024,Medium
+190,Workflow Automation Platform,Client Project,11-05-2024,20-07-2024,High
+191,Procurement Management Solution,BAU activity,07-05-2024,14-06-2024,High
+192,Customer Feedback Management Tool,Client Project,02-04-2024,21-07-2024,Medium
+193,Compliance Monitoring System,Client Project,19-05-2024,13-06-2024,Medium
+194,Quality Assurance Management System,BAU activity,16-05-2024,05-06-2024,High
+195,Producti,BAU activity,30-05-2024,06-06-2024,Medium
+196,Field Service Management Software,BAU activity,30-04-2024,07-07-2024,Medium
+197,Customer Relationship Management (CRM) System,BAU activity,28-04-2024,27-06-2024,High
+198,Customer Feedback Management Tool,Client Project,01-05-2024,25-07-2024,Low
+199,Business Intelligence Dashboard,BAU activity,03-05-2024,06-06-2024,High
+200,Facility Management System,BAU activity,15-05-2024,29-06-2024,Low
+201,Help Desk Ticketing System,Client Project,25-04-2024,09-07-2024,Low
+202,Document Collaboration Platform,Client Project,20-05-2024,10-07-2024,Low
+203,Customer Support Ticket System,Sales Activity,02-04-2024,23-06-2024,Low
+204,Producti,Sales Activity,11-04-2024,12-06-2024,Medium
+205,Market Research Analysis Tool,Sales Activity,15-05-2024,04-07-2024,Low
+206,Vendor Relationship Management (VRM) Platform,Client Project,03-05-2024,03-07-2024,Medium
+207,Sales Forecasting Application,Sales Activity,30-04-2024,22-07-2024,Medium
+208,Expense Report Management Software,BAU activity,24-05-2024,06-06-2024,High
+209,Business Intelligence Dashboard,BAU activity,03-05-2024,15-07-2024,Medium
+210,Employee Performance Appraisal Tool,Sales Activity,16-04-2024,11-06-2024,Medium
+211,Quality Assurance Management System,BAU activity,21-05-2024,19-06-2024,Medium
+212,Product Lifecycle Management (PLM) Software,Client Project,20-04-2024,15-06-2024,Medium
+213,Producti,Client Project,14-05-2024,02-06-2024,Low
+214,Event Planning and Management Software,BAU activity,01-05-2024,29-06-2024,High
+215,Supply Chain Optimization Platform,BAU activity,29-05-2024,21-06-2024,High
+216,Risk Management Software,Client Project,25-05-2024,23-07-2024,High
+217,Customer Support Ticket System,Client Project,19-05-2024,30-06-2024,High
+218,Order Management System,Sales Activity,22-04-2024,12-07-2024,Medium
+219,Order Management System,Sales Activity,30-05-2024,23-06-2024,Medium
+220,Customer Support Ticket System,Client Project,18-04-2024,05-07-2024,Medium
+221,Customer Feedback Management Tool,BAU activity,21-04-2024,25-06-2024,High
+222,Asset Tracking Application,Client Project,13-04-2024,23-06-2024,Low
+223,Procurement Management Solution,Client Project,23-04-2024,18-06-2024,Medium
+224,Product Lifecycle Management (PLM) Software,Client Project,03-04-2024,11-06-2024,High
+225,Asset Tracking Application,Client Project,30-04-2024,01-07-2024,Low
+226,Event Planning and Management Software,Sales Activity,10-04-2024,27-06-2024,Medium
+227,Procurement Management Solution,BAU activity,02-04-2024,04-07-2024,High
+228,Training and Development Platform,Client Project,02-05-2024,10-07-2024,Low
+229,Quality Assurance Management System,Client Project,01-04-2024,11-06-2024,Low
+230,Project Planning Tool,Client Project,26-04-2024,07-06-2024,Low
+231,Supply Chain Optimization Platform,BAU activity,25-05-2024,02-06-2024,Low
+232,Workflow Automation Platform,Sales Activity,14-04-2024,16-07-2024,Low
+233,Project Planning Tool,Client Project,06-05-2024,16-06-2024,Low
+234,Field Service Management Software,Client Project,24-04-2024,10-07-2024,High
+235,Inventory Management Software,Sales Activity,09-04-2024,29-07-2024,Low
+236,Field Service Management Software,Sales Activity,06-05-2024,07-07-2024,High
+237,Customer Relationship Management (CRM) System,Sales Activity,19-05-2024,30-06-2024,High
+238,Event Planning and Management Software,BAU activity,07-04-2024,12-07-2024,Low
+239,Inventory Management Software,BAU activity,02-04-2024,11-07-2024,High
+240,Event Planning and Management Software,Sales Activity,29-05-2024,01-07-2024,Medium
+241,Quality Assurance Management System,Sales Activity,29-05-2024,07-07-2024,High
+242,Inventory Management Software,Sales Activity,19-04-2024,13-07-2024,Medium
+243,Facility Management System,BAU activity,17-05-2024,18-07-2024,Medium
+244,Inventory Management Software,BAU activity,30-04-2024,24-07-2024,Low
+245,Field Service Management Software,Client Project,18-04-2024,24-06-2024,High
+246,Business Intelligence Dashboard,BAU activity,27-05-2024,13-06-2024,Medium
+247,Supply Chain Optimization Platform,Client Project,16-05-2024,05-07-2024,Low
+248,Event Planning and Management Software,Sales Activity,17-04-2024,17-07-2024,Medium
+249,Help Desk Ticketing System,BAU activity,18-05-2024,18-07-2024,High
+250,Product Lifecycle Management (PLM) Software,Sales Activity,17-04-2024,28-07-2024,High
+251,Business Intelligence Dashboard,BAU activity,27-05-2024,17-06-2024,High
+252,Risk Management Software,BAU activity,02-05-2024,28-06-2024,Medium
+253,Order Management System,Client Project,15-05-2024,24-06-2024,High
+254,Workflow Automation Platform,Sales Activity,04-04-2024,13-07-2024,High
+255,Facility Management System,Sales Activity,03-04-2024,03-07-2024,Low
+256,Project Planning Tool,BAU activity,04-05-2024,09-06-2024,High
+257,Customer Feedback Management Tool,Client Project,03-04-2024,30-07-2024,Medium
+258,Inventory Management Software,Client Project,08-05-2024,27-06-2024,Low
+259,Compliance Monitoring System,Sales Activity,03-04-2024,02-06-2024,High
+260,Training and Development Platform,BAU activity,12-05-2024,10-07-2024,Low
+261,Order Management System,Client Project,19-04-2024,21-07-2024,High
+262,Inventory Management Software,Client Project,21-04-2024,20-06-2024,Medium
+263,Market Research Analysis Tool,Client Project,07-04-2024,15-07-2024,Low
+264,Inventory Management Software,BAU activity,21-04-2024,23-07-2024,Low
+265,Event Planning and Management Software,BAU activity,11-04-2024,02-06-2024,High
+266,Producti,Sales Activity,16-05-2024,14-07-2024,Low
+267,Quality Assurance Management System,Sales Activity,07-04-2024,23-06-2024,Low
+268,Risk Management Software,Client Project,16-05-2024,27-07-2024,Low
+269,Inventory Management Software,BAU activity,03-05-2024,20-07-2024,High
+270,Workflow Automation Platform,BAU activity,15-05-2024,14-06-2024,Medium
+271,Quality Assurance Management System,BAU activity,17-05-2024,30-07-2024,Low
+272,Customer Support Ticket System,BAU activity,21-05-2024,07-07-2024,High
+273,Sales Dashboard,Sales Activity,15-05-2024,22-06-2024,Low
+274,Event Planning and Management Software,Client Project,09-05-2024,11-06-2024,High
+275,Employee Performance Appraisal Tool,Client Project,23-05-2024,14-06-2024,Medium
+276,Order Management System,Client Project,27-04-2024,14-06-2024,High
+277,Event Planning and Management Software,Client Project,04-05-2024,23-07-2024,High
+278,Help Desk Ticketing System,Sales Activity,26-05-2024,16-07-2024,High
+279,Field Service Management Software,Client Project,06-04-2024,02-06-2024,Low
+280,Quality Assurance Management System,Client Project,08-05-2024,27-07-2024,Medium
+281,Procurement Management Solution,Client Project,24-04-2024,18-07-2024,High
+282,Asset Tracking Application,Client Project,29-05-2024,28-06-2024,Medium
+283,Customer Feedback Management Tool,Sales Activity,03-04-2024,20-06-2024,High
+284,Order Management System,Sales Activity,10-04-2024,22-06-2024,Low
+285,Business Intelligence Dashboard,BAU activity,07-04-2024,14-07-2024,Medium
+286,Inventory Management Software,BAU activity,15-05-2024,07-07-2024,Medium
+287,Procurement Management Solution,Client Project,11-04-2024,08-07-2024,High
+288,Sales Forecasting Application,BAU activity,20-04-2024,14-06-2024,High
+289,Supply Chain Optimization Platform,BAU activity,19-05-2024,18-07-2024,Low
+290,Producti,Sales Activity,25-04-2024,12-06-2024,High
+291,Sales Dashboard,BAU activity,06-04-2024,21-07-2024,High
+292,Inventory Management Software,Client Project,13-04-2024,20-07-2024,Low
+293,Project Planning Tool,BAU activity,04-05-2024,16-07-2024,Medium
+294,Quality Assurance Management System,BAU activity,11-05-2024,09-06-2024,Low
+295,Customer Feedback Management Tool,Client Project,26-04-2024,18-06-2024,Low
+296,Risk Management Software,Sales Activity,26-05-2024,18-07-2024,Low
+297,Market Research Analysis Tool,BAU activity,24-05-2024,09-07-2024,Low
+298,Inventory Management Software,Client Project,17-05-2024,08-07-2024,Medium
+299,Facility Management System,BAU activity,10-05-2024,05-06-2024,Medium
+300,Producti,Sales Activity,09-05-2024,18-06-2024,Medium
+301,Risk Management Software,Sales Activity,13-04-2024,07-06-2024,Low
+302,Employee Performance Appraisal Tool,Client Project,08-04-2024,18-06-2024,High
+303,Training and Development Platform,Client Project,26-05-2024,11-07-2024,Medium
+304,Training and Development Platform,BAU activity,16-05-2024,22-07-2024,Medium
+305,Supply Chain Optimization Platform,Sales Activity,28-05-2024,05-07-2024,Medium
+306,Help Desk Ticketing System,Sales Activity,19-05-2024,24-06-2024,Low
+307,Incident Reporting System,Sales Activity,27-05-2024,29-06-2024,Low
+308,Sales Forecasting Application,Client Project,22-04-2024,06-07-2024,Medium
+309,Producti,Sales Activity,12-04-2024,09-07-2024,High
+310,Sales Dashboard,Sales Activity,19-05-2024,02-06-2024,Low
+311,Sales Dashboard,Sales Activity,26-05-2024,10-06-2024,Low
+312,Sales Dashboard,Client Project,21-05-2024,14-07-2024,Medium
+313,Product Lifecycle Management (PLM) Software,Client Project,20-05-2024,15-07-2024,Medium
+314,Field Service Management Software,Client Project,08-04-2024,09-07-2024,High
+315,Workflow Automation Platform,BAU activity,27-04-2024,18-06-2024,Medium
+316,Sales Dashboard,BAU activity,29-04-2024,21-06-2024,High
+317,Event Planning and Management Software,Client Project,24-04-2024,09-07-2024,Low
+318,Project Planning Tool,Client Project,22-04-2024,30-07-2024,High
+319,Project Planning Tool,Client Project,24-04-2024,17-07-2024,High
+320,Document Collaboration Platform,Sales Activity,27-05-2024,20-06-2024,Medium
+321,Supply Chain Optimization Platform,BAU activity,17-05-2024,19-06-2024,Medium
+322,Compliance Monitoring System,Sales Activity,07-04-2024,12-06-2024,Low
+323,Project Planning Tool,Sales Activity,16-04-2024,30-07-2024,Low
+324,Project Planning Tool,Sales Activity,01-05-2024,23-06-2024,Low
+325,Sales Forecasting Application,BAU activity,08-04-2024,20-06-2024,Medium
+326,Employee Performance Appraisal Tool,Sales Activity,18-05-2024,27-06-2024,Low
+327,Training and Development Platform,BAU activity,30-05-2024,23-06-2024,High
+328,Customer Relationship Management (CRM) System,Sales Activity,16-05-2024,09-07-2024,Medium
+329,Business Intelligence Dashboard,Sales Activity,13-05-2024,23-07-2024,Low
+330,Customer Support Ticket System,Sales Activity,08-04-2024,27-06-2024,High
+331,Accounts Payable Automation,Sales Activity,09-05-2024,03-07-2024,High
+332,Event Planning and Management Software,Client Project,03-05-2024,15-06-2024,Low
+333,Customer Feedback Management Tool,Client Project,21-04-2024,06-06-2024,Medium
+334,Training and Development Platform,BAU activity,26-05-2024,27-07-2024,Low
+335,Help Desk Ticketing System,Client Project,27-04-2024,24-07-2024,High
+336,Customer Feedback Management Tool,Client Project,04-05-2024,12-07-2024,Low
+337,Vendor Relationship Management (VRM) Platform,BAU activity,25-05-2024,15-06-2024,Medium
+338,Sales Dashboard,Sales Activity,01-04-2024,22-06-2024,Medium
+339,Customer Feedback Management Tool,BAU activity,13-05-2024,13-06-2024,Medium
+340,Help Desk Ticketing System,Client Project,09-05-2024,24-07-2024,Low
+341,Product Lifecycle Management (PLM) Software,BAU activity,20-05-2024,24-07-2024,Low
+342,Order Management System,Client Project,11-04-2024,23-07-2024,Low
+343,Supply Chain Optimization Platform,BAU activity,07-05-2024,08-07-2024,High
+344,Event Planning and Management Software,BAU activity,03-05-2024,18-06-2024,High
+345,Event Planning and Management Software,BAU activity,01-05-2024,25-06-2024,Low
+346,Employee Performance Appraisal Tool,BAU activity,29-05-2024,23-06-2024,High
+347,Product Lifecycle Management (PLM) Software,Sales Activity,22-04-2024,19-06-2024,Medium
+348,Producti,BAU activity,09-05-2024,22-06-2024,Medium
+349,Customer Feedback Management Tool,Sales Activity,05-05-2024,24-06-2024,High
+350,Asset Tracking Application,Client Project,03-05-2024,02-06-2024,Low
+351,Product Lifecycle Management (PLM) Software,Client Project,19-04-2024,27-07-2024,High
+352,Help Desk Ticketing System,BAU activity,30-05-2024,10-06-2024,Low
+353,Sales Forecasting Application,Sales Activity,25-04-2024,19-06-2024,High
+354,Order Management System,Sales Activity,23-05-2024,09-06-2024,High
+355,Customer Support Ticket System,BAU activity,12-05-2024,18-06-2024,Low
+356,Employee Performance Appraisal Tool,Sales Activity,11-05-2024,11-07-2024,High
+357,Asset Tracking Application,BAU activity,10-04-2024,02-07-2024,Medium
+358,Help Desk Ticketing System,Client Project,17-05-2024,26-06-2024,Low
+359,Expense Report Management Software,BAU activity,18-04-2024,22-07-2024,Low
+360,Marketing Campaign Tracker,Sales Activity,29-04-2024,01-07-2024,High
+361,Quality Assurance Management System,Sales Activity,26-05-2024,12-06-2024,Medium
+362,Asset Tracking Application,Sales Activity,06-04-2024,25-07-2024,Medium
+363,Expense Report Management Software,Sales Activity,22-05-2024,25-06-2024,Medium
+364,Customer Support Ticket System,BAU activity,14-04-2024,07-07-2024,Low
+365,Field Service Management Software,Sales Activity,17-04-2024,06-06-2024,Medium
+366,Expense Report Management Software,BAU activity,15-05-2024,09-07-2024,Medium
+367,Sales Dashboard,Client Project,05-05-2024,12-06-2024,High
+368,Producti,Client Project,28-04-2024,05-06-2024,Low
+369,Customer Feedback Management Tool,BAU activity,21-05-2024,08-07-2024,High
+370,Market Research Analysis Tool,Sales Activity,26-04-2024,28-06-2024,Medium
+371,Help Desk Ticketing System,Client Project,15-04-2024,25-06-2024,Medium
+372,Incident Reporting System,Sales Activity,19-04-2024,14-07-2024,Medium
+373,Document Collaboration Platform,BAU activity,01-05-2024,11-06-2024,Low
+374,Customer Relationship Management (CRM) System,Client Project,08-04-2024,18-07-2024,High
+375,Employee Performance Appraisal Tool,Sales Activity,01-05-2024,28-06-2024,High
+376,Workflow Automation Platform,Sales Activity,14-04-2024,12-07-2024,Low
+377,Order Management System,BAU activity,09-04-2024,27-06-2024,High
+378,Supply Chain Optimization Platform,BAU activity,09-04-2024,15-07-2024,Medium
+379,Field Service Management Software,Client Project,05-05-2024,01-06-2024,High
+380,Vendor Relationship Management (VRM) Platform,Sales Activity,29-05-2024,06-06-2024,Medium
+381,Expense Report Management Software,BAU activity,16-04-2024,21-07-2024,Low
+382,Compliance Monitoring System,Client Project,04-04-2024,03-07-2024,High
+383,Human Resources Information System (HRIS),BAU activity,06-04-2024,12-06-2024,High
+384,Workflow Automation Platform,BAU activity,22-05-2024,24-06-2024,Low
+385,Risk Management Software,Client Project,21-05-2024,09-07-2024,Low
+386,Market Research Analysis Tool,BAU activity,25-04-2024,27-07-2024,Medium
+387,Sales Dashboard,Sales Activity,22-04-2024,21-07-2024,High
+388,Procurement Management Solution,BAU activity,13-05-2024,19-06-2024,Low
+389,Marketing Campaign Tracker,Sales Activity,03-04-2024,04-06-2024,High
+390,Sales Forecasting Application,Sales Activity,30-04-2024,11-06-2024,Low
+391,Customer Support Ticket System,Client Project,04-04-2024,14-07-2024,Low
+392,Customer Support Ticket System,Client Project,30-04-2024,05-07-2024,Low
+393,Customer Support Ticket System,Sales Activity,29-05-2024,22-07-2024,Low
+394,Sales Forecasting Application,Client Project,25-04-2024,06-06-2024,High
+395,Quality Assurance Management System,Sales Activity,05-05-2024,09-07-2024,High
+396,Order Management System,Sales Activity,23-05-2024,11-06-2024,Low
+397,Expense Report Management Software,Sales Activity,04-04-2024,13-07-2024,Medium
+398,Business Intelligence Dashboard,BAU activity,15-04-2024,15-07-2024,Low
+399,Business Intelligence Dashboard,Sales Activity,11-04-2024,05-06-2024,Medium
+400,Customer Support Ticket System,Sales Activity,28-04-2024,28-07-2024,High
+401,Marketing Campaign Tracker,Client Project,04-05-2024,28-07-2024,High
+402,Inventory Management Software,Sales Activity,06-04-2024,23-07-2024,High
+403,Facility Management System,Client Project,06-04-2024,16-07-2024,High
+404,Customer Relationship Management (CRM) System,BAU activity,24-04-2024,27-06-2024,High
+405,Incident Reporting System,Client Project,03-05-2024,27-06-2024,Low
+406,Market Research Analysis Tool,Sales Activity,27-04-2024,06-07-2024,Medium
+407,Incident Reporting System,BAU activity,06-04-2024,28-06-2024,High
+408,Customer Support Ticket System,Client Project,23-04-2024,04-06-2024,Low
+409,Product Lifecycle Management (PLM) Software,BAU activity,14-04-2024,15-07-2024,High
+410,Incident Reporting System,BAU activity,13-04-2024,09-07-2024,High
+411,Facility Management System,Sales Activity,25-04-2024,29-06-2024,High
+412,Producti,Sales Activity,30-04-2024,25-06-2024,High
+413,Employee Performance Appraisal Tool,BAU activity,15-05-2024,08-06-2024,High
+414,Document Collaboration Platform,BAU activity,03-05-2024,12-07-2024,Low
+415,Market Research Analysis Tool,Client Project,01-05-2024,12-07-2024,High
+416,Human Resources Information System (HRIS),BAU activity,02-04-2024,18-06-2024,Low
+417,Sales Forecasting Application,Client Project,16-04-2024,08-06-2024,Low
+418,Asset Tracking Application,BAU activity,12-04-2024,23-07-2024,Medium
+419,Event Planning and Management Software,Client Project,30-04-2024,20-06-2024,Medium
+420,Asset Tracking Application,Sales Activity,18-05-2024,13-07-2024,Low
+421,Employee Performance Appraisal Tool,Client Project,10-04-2024,21-07-2024,Low
+422,Asset Tracking Application,BAU activity,29-04-2024,27-07-2024,Medium
+423,Expense Report Management Software,Client Project,05-04-2024,05-06-2024,High
+424,Inventory Management Software,BAU activity,19-04-2024,19-06-2024,High
+425,Customer Feedback Management Tool,Client Project,29-04-2024,10-07-2024,Low
+426,Human Resources Information System (HRIS),BAU activity,03-04-2024,17-06-2024,High
+427,Producti,Sales Activity,17-04-2024,05-07-2024,Low
+428,Expense Report Management Software,Client Project,11-04-2024,19-07-2024,Medium
+429,Sales Dashboard,BAU activity,07-05-2024,30-07-2024,Medium
+430,Producti,Client Project,16-05-2024,16-06-2024,High
+431,Training and Development Platform,Client Project,14-05-2024,02-07-2024,High
+432,Facility Management System,Sales Activity,25-04-2024,22-06-2024,Medium
+433,Order Management System,BAU activity,03-04-2024,25-07-2024,High
+434,Customer Feedback Management Tool,Sales Activity,30-05-2024,21-07-2024,Low
+435,Marketing Campaign Tracker,BAU activity,01-05-2024,23-07-2024,High
+436,Workflow Automation Platform,Client Project,02-05-2024,01-06-2024,Medium
+437,Vendor Relationship Management (VRM) Platform,BAU activity,20-04-2024,17-07-2024,Medium
+438,Inventory Management Software,Client Project,08-05-2024,20-07-2024,High
+439,Sales Dashboard,Sales Activity,18-05-2024,05-07-2024,Low
+440,Document Collaboration Platform,Client Project,09-04-2024,18-07-2024,Medium
+441,Market Research Analysis Tool,Client Project,18-04-2024,25-06-2024,High
+442,Product Lifecycle Management (PLM) Software,BAU activity,02-05-2024,22-06-2024,Low
+443,Procurement Management Solution,BAU activity,22-05-2024,16-06-2024,High
+444,Document Collaboration Platform,Client Project,02-05-2024,11-07-2024,High
+445,Sales Dashboard,BAU activity,07-04-2024,08-06-2024,Low
+446,Order Management System,Sales Activity,21-05-2024,24-06-2024,Low
+447,Field Service Management Software,Client Project,25-05-2024,20-07-2024,Medium
+448,Vendor Relationship Management (VRM) Platform,Sales Activity,23-04-2024,14-06-2024,Medium
+449,Compliance Monitoring System,BAU activity,28-04-2024,29-07-2024,High
+450,Facility Management System,BAU activity,26-05-2024,26-06-2024,High
+451,Product Lifecycle Management (PLM) Software,Client Project,09-04-2024,26-07-2024,High
+452,Expense Report Management Software,BAU activity,11-05-2024,11-07-2024,High
+453,Product Lifecycle Management (PLM) Software,BAU activity,11-04-2024,05-06-2024,High
+454,Asset Tracking Application,BAU activity,15-04-2024,24-07-2024,Low
+455,Quality Assurance Management System,Client Project,25-05-2024,01-07-2024,Low
+456,Field Service Management Software,Client Project,10-05-2024,22-06-2024,Low
+457,Workflow Automation Platform,BAU activity,25-05-2024,18-07-2024,Medium
+458,Workflow Automation Platform,Client Project,26-05-2024,11-06-2024,Low
+459,Training and Development Platform,Client Project,14-05-2024,01-07-2024,Low
+460,Sales Dashboard,Sales Activity,22-05-2024,16-07-2024,High
+461,Sales Forecasting Application,Sales Activity,30-05-2024,05-06-2024,Low
+462,Marketing Campaign Tracker,BAU activity,03-04-2024,04-07-2024,Medium
+463,Field Service Management Software,Client Project,16-04-2024,18-07-2024,High
+464,Customer Feedback Management Tool,Client Project,08-05-2024,04-07-2024,Medium
+465,Producti,Client Project,04-05-2024,01-06-2024,High
+466,Quality Assurance Management System,Client Project,23-04-2024,19-07-2024,High
+467,Employee Performance Appraisal Tool,BAU activity,06-05-2024,01-07-2024,High
+468,Sales Forecasting Application,BAU activity,08-05-2024,11-06-2024,High
+469,Help Desk Ticketing System,Sales Activity,05-04-2024,08-07-2024,High
+470,Sales Dashboard,Sales Activity,22-05-2024,16-07-2024,High
+471,Order Management System,Client Project,22-04-2024,08-06-2024,High
+472,Compliance Monitoring System,Sales Activity,22-04-2024,12-07-2024,High
+473,Inventory Management Software,Client Project,29-05-2024,23-07-2024,Medium
+474,Sales Forecasting Application,Sales Activity,03-04-2024,07-07-2024,Medium
+475,Help Desk Ticketing System,Client Project,07-05-2024,13-07-2024,Medium
+476,Inventory Management Software,Client Project,25-04-2024,15-07-2024,Low
+477,Supply Chain Optimization Platform,BAU activity,06-05-2024,19-07-2024,High
+478,Customer Relationship Management (CRM) System,Sales Activity,30-04-2024,28-06-2024,High
+479,Inventory Management Software,Sales Activity,04-05-2024,28-06-2024,High
+480,Facility Management System,BAU activity,21-05-2024,26-06-2024,Medium
+481,Accounts Payable Automation,Client Project,08-05-2024,19-07-2024,High
+482,Sales Forecasting Application,Client Project,04-04-2024,05-07-2024,Low
+483,Customer Relationship Management (CRM) System,Client Project,28-04-2024,07-06-2024,Medium
+484,Workflow Automation Platform,Client Project,29-05-2024,10-07-2024,Medium
+485,Business Intelligence Dashboard,BAU activity,04-04-2024,19-07-2024,Low
+486,Sales Forecasting Application,BAU activity,07-04-2024,28-07-2024,Medium
+487,Sales Forecasting Application,Client Project,26-05-2024,07-07-2024,Medium
+488,Customer Support Ticket System,Client Project,13-05-2024,17-07-2024,Medium
+489,Customer Feedback Management Tool,Sales Activity,20-05-2024,02-06-2024,High
+490,Document Collaboration Platform,BAU activity,17-05-2024,30-06-2024,Medium
+491,Customer Relationship Management (CRM) System,Client Project,23-05-2024,07-06-2024,Medium
+492,Facility Management System,Sales Activity,22-05-2024,10-06-2024,High
+493,Human Resources Information System (HRIS),Sales Activity,26-04-2024,06-07-2024,Medium
+494,Product Lifecycle Management (PLM) Software,Client Project,09-05-2024,23-06-2024,Low
+495,Customer Feedback Management Tool,BAU activity,20-05-2024,11-07-2024,High
+496,Field Service Management Software,BAU activity,28-05-2024,09-07-2024,High
+497,Customer Support Ticket System,Client Project,30-04-2024,28-07-2024,Medium
+498,Project Planning Tool,BAU activity,20-04-2024,04-07-2024,Low
+499,Quality Assurance Management System,Client Project,06-05-2024,21-07-2024,Medium
+500,Market Research Analysis Tool,Sales Activity,07-05-2024,30-07-2024,High

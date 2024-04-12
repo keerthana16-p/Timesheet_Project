@@ -1,0 +1,12 @@
+timesheet:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: xr63493.central-india.azure
+      user: Keerthana
+      password: Jman@600113
+      role: ACCOUNTADMIN
+      database: timesheet
+      warehouse: YOUR_WAREHOUSE
+      schema: project

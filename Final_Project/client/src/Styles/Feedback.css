@@ -1,0 +1,44 @@
+.feedback-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    text-align: center;
+  }
+  
+  .feedback-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .feedback-button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 24px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .feedback-button:last-child {
+    margin-bottom: 0;
+  }
+  
+  .feedback-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .feedback-button:focus {
+    outline: none;
+  }
+  

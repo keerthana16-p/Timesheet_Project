@@ -1,0 +1,66 @@
+.add-project-container {
+  width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  background-color: #f9f9f9; /* Set background color */
+}
+
+.add-project-container h2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #19105B; /* Title color */
+}
+
+.add-project-container label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.add-project-container input[type="text"],
+.add-project-container textarea,
+.add-project-container select,
+.add-project-container input[type="date"] {
+  width: calc(100% - 22px);
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+  background-color: white; /* Input background color */
+}
+
+.add-project-container .button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.add-project-container button {
+  background-color: #19105B; /* Button background color */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.add-project-container button:hover {
+  background-color: #130842; /* Light shade on hover */
+}
+
+.add-project-container button:active {
+  background-color: #0c0630; /* Darker shade when clicked */
+}
+
+.add-project-container button:focus {
+  outline: none;
+}

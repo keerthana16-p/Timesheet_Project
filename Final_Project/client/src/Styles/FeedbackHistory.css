@@ -1,0 +1,44 @@
+.feedback-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .card {
+    background-color: #19105B;
+    color:black; /* Set text color to contrast with background */
+    margin-bottom: 20px; /* Add some margin between cards */
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .list-group {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list-group-item {
+    padding: 10px;
+  }
+  
+  .list-group-item:not(:last-child) {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .list-group-item strong {
+    font-weight: bold;
+  }
+  
+  

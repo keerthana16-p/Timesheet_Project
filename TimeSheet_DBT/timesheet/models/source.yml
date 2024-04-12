@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: timesheet
+    database: timesheet
+    schema: project
+    tables:
+      - name: userdetails
+      - name: projectdetails
+      - name: resourceallocationdetails
+      - name: timesheet
+      - name: consultantfeedback
+      - name: tribemasterfeedback
+      - name: internfeedback
+      - name: seniordeveloperfeedback

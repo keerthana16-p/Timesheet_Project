@@ -1,0 +1,52 @@
+.createuser-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh;
+}
+
+.form-container {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.form-container h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  color: #19105B; /* Set title color */
+}
+
+.form-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-container input,
+.form-container select {
+  width: calc(100% - 20px); /* Set input width to 100% minus padding */
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background-color: white; /* Set input background color */
+}
+
+.form-container button {
+  width: calc(100% - 20px); /* Set button width to 100% minus padding */
+  padding: 10px;
+  margin-top: 10px; /* Add margin top to separate from select */
+  background-color: #19105B !important; /* Set button background color */
+  color: white; /* Set button text color */
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.form-container button:hover {
+  background-color: #130842; /* Set hover color */
+}

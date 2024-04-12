@@ -1,0 +1,14 @@
+version: 2
+ 
+models:
+  - name: feedback_count
+    description : To find which role has less number of feedback count
+    columns :
+      - name : Role
+        description : Role of the user
+        tests :
+          - not_null
+      - name : Feedback_Count
+        description : Total number of feedbacks
+        tests :
+          - not_null

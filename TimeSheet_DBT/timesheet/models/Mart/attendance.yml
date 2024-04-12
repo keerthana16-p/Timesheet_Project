@@ -1,0 +1,15 @@
+version: 2
+ 
+models:
+  - name: attendance
+    description : To find who has not worked upto to the total hours
+    columns :
+      - name : User_Name
+        description : User Name
+        tests :
+          - not_null
+          - unique
+      - name : Total_Hours
+        description : Total number of hours the user worked for a particular week
+        tests :
+          - not_null

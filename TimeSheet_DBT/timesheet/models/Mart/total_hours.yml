@@ -1,0 +1,15 @@
+version: 2
+ 
+models:
+  - name: toatl_hours
+    description : To find the total working hours 
+    columns :
+      - name : User_Name
+        description : Name of the user
+        tests :
+          - not_null
+          - unique
+      - name : Total_hours
+        description : Total hours worked by a particular user for a week
+        tests :
+          - not_null

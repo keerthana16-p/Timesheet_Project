@@ -1,0 +1,47 @@
+.login-container {
+  margin: 200px auto;
+  max-width: 400px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.login-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #19105B; /* Title color */
+}
+
+.login-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.login-container input {
+  width: 96%;
+  padding: 6px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.login-container button.submit {
+  width: 100%;
+  padding: 10px;
+  background-color: #19105B; /* Button background color */
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Add transition effect */
+}
+
+.login-container button.submit:hover {
+  background-color: rgba(25, 16, 91, 0.8); /* Button background color with opacity */
+}
+
+.login-container button.submit:hover,
+.login-container button.submit:focus {
+  box-shadow: 0 0 0 0.2rem rgba(25, 16, 91, 0.5); /* Light shadow on hover */
+}

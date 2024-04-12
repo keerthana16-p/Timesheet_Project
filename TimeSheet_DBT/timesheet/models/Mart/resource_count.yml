@@ -1,0 +1,18 @@
+version: 2
+ 
+models:
+  - name: resource_count
+    description : To find the amount of resources allocated for particular project
+    columns :
+      - name : Project_Name 
+        description : Name of the project
+        tests :
+          - not_null
+      - name : Priority
+        description : Priority of the particular project
+        tests :
+          - not_null
+      - name : User_Count
+        description : Number of users allocated to a particular project
+        tests :
+          - not_null
